@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import CountrySelect, {getDefaultCountryValue } from 'components/Util/CountrySelect'
-import RegionSelect from 'components/Util/RegionSelect'
+import { RegionSelect, CountrySelect, getDefaultCountryValue } from '../src/index'
 
 function example1() {
   const [country, setCountry] = useState('')
