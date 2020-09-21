@@ -1,0 +1,32 @@
+{
+  "name": "mui-country-region-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbryant31/mui-country-region-select.git"
+  },
+  "keywords": [
+    "mui",
+    "region",
+    "select",
+    "material ui",
+    "react"
+  ],
+  "author": "sbryant31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbryant31/mui-country-region-select/issues"
+  },
+  "homepage": "https://github.com/sbryant31/mui-country-region-select#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "country-region-data": "^1.6.0",
+    "react": "^16.13.1"
+  }
+}
